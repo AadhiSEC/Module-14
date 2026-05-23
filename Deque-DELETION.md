@@ -1,8 +1,8 @@
 
 # Exp.No:38  
 ## Deque - DELETION
-### Name-Ganapathy Shriram V B
-### Reg No-212223060064
+### Name-Aadhithya SV
+### Reg No-212223060001
 
 
 ### AIM  
